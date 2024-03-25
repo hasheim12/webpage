@@ -1,0 +1,15 @@
+body{
+    background-color:deepskyblue;
+}
+.container {
+    width: 50%;
+    max-width: 31.25em;
+    background-color:#f7faf7;
+    padding: 4em 3em;
+    border-radius: 0.5em;
+    box-shadow: 0 2em 3.5em rgba(0, 9, 50, 0.3);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+  }
